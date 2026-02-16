@@ -1,10 +1,10 @@
-﻿{
+{
   "mode": "LIVE",
-  "asof": null,
+  "asof": "2026-02-13",
   "lev": 3.0,
-  "current": null,
-  "entry_date": null,
-  "entry_price": null,
+  "current": "SLV",
+  "entry_date": "2026-02-13",
+  "entry_price": 69.73394522094726,
   "stop_price": null,
   "realized_equity": 1.0,
   "realized_pnl": 0.0
