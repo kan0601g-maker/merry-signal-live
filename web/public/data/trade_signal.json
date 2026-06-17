@@ -1,12 +1,12 @@
 {
-  "asof": "2026-06-12",
+  "asof": "2026-06-19",
   "action": "HOLD",
   "target": "SLV",
   "lev": 3.0,
   "entry_price": 69.73394522094726,
   "stop_price": null,
   "equity_realized": 1.0,
-  "equity_mtm": 0.636735985093091,
+  "equity_mtm": 0.7270792949747015,
   "reason": "In position.",
   "priority_mode": "RISK_ADJ"
 }
