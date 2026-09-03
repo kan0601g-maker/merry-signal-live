@@ -6,7 +6,7 @@
   "entry_price": 69.73394522094726,
   "stop_price": null,
   "equity_realized": 1.0,
-  "equity_mtm": 0.49175625954173696,
+  "equity_mtm": 0.5412300784502414,
   "reason": "In position.",
   "priority_mode": "RISK_ADJ"
 }
